@@ -28,6 +28,5 @@ function chatLoop(username) {
   });
 }
 
-
 // Start the chat when the script is run
 startChat();
